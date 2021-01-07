@@ -8,4 +8,4 @@ Hi there! My name is Shawn, and I'm a full-stack web developer. Thanks for comin
   
   Should you need to contact me for whatever reason, please feel free to reach out to me at ShawnBatson84@gmail.com!
   
-  Have a good day!
+  Have a good day!!
